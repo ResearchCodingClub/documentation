@@ -132,7 +132,7 @@ aren't relevant. This code has plenty of documentation to help us read and under
 #'
 #' @param angle The angle in radians.
 #'
-#' @returns The sine of the angle (sun(angle)).
+#' @returns The sine of the angle (sin(angle)).
 calculate_sine <- function(angle) {
   sine_value <- angle
 

@@ -38,7 +38,7 @@ a (potentially complex) software tool. It explains *how* the software works *why
 We often encounter software packages, whether written by ourselves, a colleague, or someone else, that’s difficult to
 use because it’s unclear what it does and how it works. Maybe we try to read the source code itself, but we can’t make
 head-nor-tail of it. Sometimes it seems like the only person who can use this software is the person who wrote it. Other
-times, you wrote the code forgot what you were thinking when you did!
+times, you wrote the code and forgot what you were thinking when you did!
 
 :::: challenge
 
