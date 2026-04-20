@@ -2,12 +2,12 @@
 site: sandpaper::sandpaper_site
 ---
 
-This course teaches **researchers how to document their software** effectively, making it accessible and understandable
-to others.  Well-documented software promotes reproducibility, maintainability, and increased research impact through
-wider adoption and citation.  The episodes in this module cover topics such as writing readable code and providing usage
+This session teaches **researchers how to document their software** effectively, making it accessible and understandable
+to others. Well-documented software promotes reproducibility, maintainability, and increased research impact through
+wider adoption and citation.  The episodes in this session cover topics such as writing readable code and providing usage
 instructions.
 
-## Course summary
+## Session summary
 
 Software documentation helps you and **others to use your software successfully** in the future and to read your code
 ensuring that its value is sustained. This course introduces the different ways to provide other researchers with useful
@@ -22,19 +22,16 @@ used and modified for a longer period of time, despite changes in technology. If
 encourages others to use it for their research, increasing the number of citations of that software and its overall
 **research impact**.
 
-## Course overview
+## Session overview
 
-This module is part of the "Coding best practices" section of the [FAIR<sup>2</sup> training
-course](https://rse.shef.ac.uk/training/fair4rs/).
-
-This module will introduce you to the different ways we can provide guidance to future users and maintainers of our
+This session will introduce you to the different ways we can provide guidance to future users and maintainers of our
 code. These coding best practices range from the very simple, such as leaving a few handy notes, to the complex,
 generating a reference website that includes tutorials and a detailed reference. The right approach for your projects
 will probably be a blend of these, and depends on the context and your audience.
 
-### Course contents
+### Session contents
 
-This course introduces some different ways to provide other researchers with useful documentation for your software.
+This session introduces some different ways to provide other researchers with useful documentation for your software.
 
 - Writing informative README files
   - Writing installation instructions
@@ -47,22 +44,21 @@ This course introduces some different ways to provide other researchers with use
 - Publishing documentation websites
 - Command line interfaces with usage instructions
 
-## Related modules
+## Related sessions
 
-There is information about publishing a software package and providing metadata and citation details in Modules 6 and 7
-of [this course](https://github.com/FAIR2-for-research-software).  For more information about these topics, please refer
-to the following modules:
+There is information about publishing a software package, publishing a software paper and providing metadata and citation details in
+other sessions of [this course](https://researchcodingclub.github.io/course/). For more information about these topics, please refer
+to the following sessions:
 
-- **6** Packaging
-- **7a** Software repositories, DOIs, metadata, citation
-- **7b** Publishing a software paper
+- [Software lifecycle planning](https://researchcodingclub.github.io/course/#software-lifecycle-planning)
+- [Packaging](https://researchcodingclub.github.io/course/#packaging)
+- [Publishing a software paper in JOSS](https://researchcodingclub.github.io/course/#publishing-a-software-paper-in-joss)
 
-For the complete catalogue of training courses, please browse the [Research Computing
-Training](https://sites.google.com/sheffield.ac.uk/research-training/).
+For the complete list of training sessions, please browse the [Research Coding Course](https://researchcodingclub.github.io/course/).
 
 ## Feedback
 
-We would like to gather your valuable feedback on this module. Your insights will help us improve future offerings and
+We would like to gather your valuable feedback on this session. Your insights will help us improve future offerings and
 ensure they meet the evolving needs of the research community at the University. Please take a few moments to **complete
 the [feedback survey](https://forms.gle/t4oJMCPi8wuzJtik7)**.
 
@@ -76,7 +72,7 @@ feedback is crucial to our ongoing efforts to provide high-quality research trai
 
 ### Learning outcomes
 
-After completing this course, participants should be able to:
+After completing this session, participants should be able to:
 
 - Write clear and concise **software documentation** that provides essential information to future users and
   maintainers;
