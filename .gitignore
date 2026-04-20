@@ -40,3 +40,5 @@ renv.lock
 # Notepad++ backup file
 *.bak
 .Rproj
+# Mac
+.DS_Store
