@@ -6,66 +6,60 @@ title: 'Reference'
 
 Here are the definitions of common technical terminology used throughout this course.
 
-Syntax
-: The rules that determine the structure of the words and symbols in a programming language.
+Command-line interface (CLI)
+: A way of running software by typing text instructions into a terminal
+
+Codebase
+: The collection of source code files that makes up a software package.
 
 Developer
 : A person who writes software
 
-Installation
-: The process of putting software onto a computer
+Documentation site
+: A software documentation website is a structured guide to using a library of research code.
 
 Editor
 : A software tool for modifying plain text files
+
+Gradware
+: A computer program written by a former postgraduate student that has been abandoned without any documentation and is
+  near-impossible to reuse or to replicate the results.
+
+Graphical user interface (GUI)
+: A visual way to provide instructions to a computer by manipulating buttons and icons.
 
 IDE
 : An *Integrated Development Environment* is a powerful source code editor and debugging tool designed for software
   engineers
 
-Developer
-: A software engineer who's contributing to a softare project
+Installation
+: The process of putting software onto a computer
 
-Codebase
-: All the code, functions, and files within a software project
+Linter
+: A system that analyses code for potential errors.
 
-Software documentation
-: Written guidance for users of a computer system to understanding how to utilise it.
+Operating system
+: Manages the files (data storage), software, and hardware that make up the computer and its services.
 
 Package
 : A collection of code and functions that is bundled together and distributed for other people to use.
 
-Type
-: The data structure that defines the set of values that a variable may contain.
+Software documentation
+: Written guidance for users of a computer system to understanding how to utilise it.
 
 Static analysis
 : "a software verification activity that analyses source code for quality, reliability, and security without executing
   the code." &mdash; MATLAB "[What Is Static Code
   Analysis?](https://uk.mathworks.com/discovery/static-code-analysis.html)"
 
-Command-line interface (CLI)
-: A way of running software by typing text instructions into a terminal
+Syntax
+: The rules that determine the structure of the words and symbols in a programming language.
 
 Terminal
 : A text prompt that is used to enter commands into a computer
 
-Graphical user interface (GUI)
-: A visual way to provide instructions to a computer by manipulating buttons and icons.
-
-Operating system
-: Manages the files (data storage), software, and hardware that make up the computer and its services.
-
-Documentation site
-: A software documentation website is a structured guide to using a library of research code.
-
-Linter
-: A system that analyses code for potential errors.
-
-Gradware
-: A computer program written by a former postgraduate student that has been abandoned without any documentation and is
-  near-impossible to reuse or to replicate the results.
-
-Codebase
-: The collection of source code files that makes up a software package.
+Type
+: The data structure that defines the set of values that a variable may contain.
 
 ## Further resources
 
