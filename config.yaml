@@ -14,7 +14,7 @@ carpentry: 'incubator'
 title: 'Research Software Documentation'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: '2024-05-20'
+created: '2026-03-30'
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software documentation, docstrings, type hints, user guide, technical documentation, architecture documentation, reproducibility, accessibility, collaboration, open science'
@@ -27,13 +27,13 @@ life_cycle: 'beta'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/FAIR2-for-research-software/Documentation'
+source: 'https://github.com/ResearchCodingClub/documentation'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'research-it@sheffield.ac.uk'
+contact: 'philip.harrison@york.ac.uk'
 
 # Navigation ------------------------------------------------
 #
@@ -67,4 +67,5 @@ profiles:
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
 
-varnish: RSE-Sheffield/uos-varnish@main
+varnish: ResearchCodingClub/uoy-varnish@main
+url: 'https://researchcodingclub.github.io/documentation/'
