@@ -163,7 +163,7 @@ Read and evaluate this code.
 
 This time, the function name is a verb that describes what the code will attempt to do. The description of the function
 is also written out clearly in a note for the user. There are comment lines (starting with `#`) that explain the
-mathematicalal method used. Each variable has a descriptive, human-readable name, making the code more intuitive to
+mathematical method used. Each variable has a descriptive, human-readable name, making the code more intuitive to
 read. An existing library is used to calculate the factorial, which means we can look up the usage for the `factorial()`
 function elsewhere.
 

@@ -25,8 +25,8 @@ exercises: 2
 ### Describing functions
 
 If you’re publishing a research software package, one of the most common ways that its users will learn to interact with
-the code is by reading the documentation **for each individual function**. We learned about _functions_ in an earlier
-[module on software design principles](https://fair2-for-research-software.github.io/FAIR_Code_design/). Functions help
+the code is by reading the documentation **for each individual function**. _Functions_ are discussed in more detail in the
+[session on software design principles](https://researchcodingclub.github.io/course/#software-design). Functions help
 us to break our code into smaller units that have a single purpose.
 
 By documenting those functions effectively, we aim to **explain their purpose** to future users and maintainers of that
@@ -75,7 +75,8 @@ docstring first** to help work through what the purpose of your new code is befo
 
 ::::::::::::::::::::::::::::::::: challenge
 
-Write a documentation string for a function.  Create a script called `oddsong` and define a function named `identify()`
+Write a documentation string for a function. If you already have some software written in Python or R then a doc string to it.
+Otherwise create a script called `oddsong` and define a function named `identify()`
 that will be used to identify bird songs by inspecting an audio file to provide the name of that species.
 
 ::::::::::::::::: solution
