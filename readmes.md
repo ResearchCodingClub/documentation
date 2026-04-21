@@ -64,16 +64,16 @@ writing. This file should be located in the directory that contains your softwar
 
 ::::::::::::::::::::::::::::::::: challenge
 
-Let's create a new code project. Create a new, empty directory to contain your work. Then, start writing your README!
+Let's start writing a README file! If you already have some existing research software that you want to document then create a README.txt file in the directory that contains your software. Otherwise, follow the instructions below to create a new, empty directory to contain your work.
 
 ::::::::::::::::: solution
 
 Follow these general steps to create a README file.  The specific details for each operating system are detailed below.
 
-1. Create a directory to contain your project. We call this the *root directory*;
+1. Create a directory to contain your project if you don't have one already. We call this the *root directory*;
 2. In that directory, create a new text file;
 3. Name the file `README.txt`;
-4. Open the file for editing&mdash;start writing your documentation!
+4. Open the file for editing in your text editor of choice and start writing your documentation!
 
 ::: group-tab
 
@@ -83,10 +83,10 @@ Follow these general steps to create a README file.  The specific details for ea
    Explorer](https://support.microsoft.com/en-gb/windows/find-and-open-file-explorer-ef370130-1cca-9dc5-e0df-2f7416fe1cb1)
    to browse the file system;
 2. In a folder, right click and select New &rightarrow; Folder;
-3. Name the folder `oddsong`;
+3. Name the folder something appropriate for your research software. Alternatively call it `oddsong`;
 4. Open that new folder, then right click and select New &rightarrow; Text Document;
 5. Name the file `README.txt`;
-6. Double-click on the file to open it for editing.
+6. Double-click on the file to open it for editing. Alternatively, open it in your favourite text editor.
 
 ### Linux
 
