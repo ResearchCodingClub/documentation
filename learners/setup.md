@@ -30,7 +30,7 @@ Desktop](https://posit.co/download/rstudio-desktop/).
 The Notepad text editor is installed by default on Windows. [Notepad++](https://notepad-plus-plus.org/) is a more
 powerful, open source editor that has a syntax highlighting feature.
 
-At the University of Sheffield, Notepad++ is available on University-managed computers in the [Software Centre](https://students.sheffield.ac.uk/it-services/software/university-applications) which is accessible via the shortcut on the desktop.
+At the University of York, Notepad++ is available on University-managed computers in the [Software Center](https://support.york.ac.uk/s/article/Installing-software-on-managed-PCs) which is accessible via the Windows Start Menu.
 
 #### Python
 
@@ -40,6 +40,7 @@ available at [Python.org](https://python.org).
 
 #### R
 
+RStudio is also available in the [Software Center](https://support.york.ac.uk/s/article/Installing-software-on-managed-PCs) on managed PCs. Otherwise you can 
 [Download R for Windows.](https://cran.rstudio.com/bin/windows/) We will use base R and some libraries that offer
 additional functionality required for this course.
 

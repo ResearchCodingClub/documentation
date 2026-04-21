@@ -102,12 +102,12 @@ This might include any of the various kinds of software documentation we'll disc
 - a step-by-step tutorial for beginners;
 - code comments.
 
-It should be a consideration in your *software management plan*, which is a concept discussed in the Module 1a on
-[Software Lifecycle Planning](https://fair2-for-research-software.github.io/Software_Lifecycle_Planning/). Also, it's
+It should be a consideration in your *software management plan*, which is a concept discussed in the session on
+[Software Lifecycle Planning](https://researchcodingclub.github.io/course/#software-lifecycle-planning). Also, it's
 never too late to start documenting an old code project.
 
 **Keep in touch** with other developers and users of the research code and make a note of their feedback. Common
-questions and problems may indicate that there are issues that must be covered more clearly and in greater depth in the
+questions and problems may indicate that there are issues that should be covered more clearly and in greater depth in the
 software documentation. **Incorporate this feedback** into your software documentation.
 
 ## Research software papers

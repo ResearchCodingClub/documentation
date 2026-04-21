@@ -42,7 +42,7 @@ history of a research process. (We could record a video screen capture of your w
 efficient.)
 
 Terminals are more efficient for running repetitive tasks and provide extra functionality for advanced users. They are
-an cost-effective way to provide a user interface for research software, as research teams often lack the resources and
+a cost-effective way to provide a user interface for research software, as research teams often lack the resources and
 know-how to produce sophisticated graphical user interfaces.
 
 ## Using the terminal

@@ -155,7 +155,7 @@ Our code should convey as much **meaning** as possible to the user or developer 
 ### Variable naming
 
 Every variable has a *name* and a *value*.  For example, the code `x = 42` creates a variable named `x` that has the
-numerical value of four.  But what does `x` mean? Is it the number of swallows required to carry a coconut? In this
+numerical value of forty-two.  But what does `x` mean? Is it the number of swallows required to carry a coconut? In this
 case, we have no idea.
 
 That's where **meaningful variable names** come in. Always try to name variables using a noun that describes its
